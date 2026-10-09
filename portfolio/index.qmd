@@ -1,0 +1,78 @@
+---
+title: "Data Science Portfolio"
+subtitle: "Building useful and interesting things with data and machine learning."
+---
+
+<div class="hero">
+  <p class="eyebrow">SCOTT SIEGER · DATA SCIENCE</p>
+  <h2>Turning data into <span class="accent">decisions.</span></h2>
+  <p class="hero-copy">I build data products that are both interesting to me and might be useful to others. </p>
+  <div class="hero-actions">
+<a class="button-primary" href="projects.html">Explore projects</a>
+<a class="button-secondary" href="about.html">About me</a>
+  </div>
+</div>
+
+## Featured work
+
+::: {.project-grid}
+
+::: {.project-card}
+<div class="project-topline"><span>01 / RECOMMENDATION SYSTEMS</span><span class="status">IN PROGRESS</span></div>
+
+### Movie Recommendation Engine
+
+Personalized movie recommendations using ratings, collaborative filtering, content features, and TMDB metadata.
+
+`Python` `Pandas` `scikit-surprise` `TMDB API`
+
+[Read project →](projects.html#movie-recommendation-engine)
+:::
+
+::: {.project-card}
+<div class="project-topline"><span>02 / MACHINE LEARNING</span><span class="status status-muted">CASE STUDY</span></div>
+
+### Predictive Modeling
+
+A reproducible modeling workflow: establish a baseline, engineer features, compare models, and evaluate performance against the right objective.
+
+`Python` `scikit-learn` `XGBoost` `Model evaluation`
+
+[Read project →](projects.html#predictive-modeling)
+:::
+
+::: {.project-card}
+<div class="project-topline"><span>03 / DATA ENGINEERING</span><span class="status status-muted">PLANNED</span></div>
+
+### Analytics Pipeline
+
+A project focused on turning raw data into a tested, repeatable pipeline with clear transformations and useful outputs.
+
+`SQL` `Python` `Git` `Data quality`
+
+[Read project →](projects.html#analytics-pipeline)
+:::
+
+:::
+
+## What I focus on
+
+::: {.focus-grid}
+::: {.focus-item}
+**Modeling with purpose**
+
+Choose metrics and validation strategies that reflect the real recommendation or prediction task.
+:::
+::: {.focus-item}
+**Reliable data workflows**
+
+Build repeatable transformations, keep code organized, and make results easier to reproduce.
+:::
+::: {.focus-item}
+**Clear communication**
+
+Explain the problem, trade-offs, and results in a way that helps someone make a decision.
+:::
+:::
+
+<div class="footer-note">This is a starter design. Replace sample descriptions and links with your actual work as each project becomes ready.</div>

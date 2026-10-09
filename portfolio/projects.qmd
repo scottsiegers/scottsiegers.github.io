@@ -1,0 +1,22 @@
+---
+title: "Projects"
+subtitle: "A few examples of independent projects I am working on."
+---
+
+
+## Movie Recommendation Engine using Letterboxd Data {#movie-recommendation-engine}
+
+::: {.project-detail}
+**Goal:** Recommend movies that fit a user's taste using their own personal rating history from their Letterboxd profile.
+
+**Purpose:** Letterboxd currently does not have an algorithmic recommendation feature to suggest relevant movies to its users. Other media services such as Spotify and Netflix have award winning recommendation systems and do not need to be improved upon. The lack of this feature within letterboxd presents a unique opportunity to develop one for a very popular application with many users and many ratings / reviews. I also am an avid user of Letterboxd (as are many of my friends), so this is an especially interesting project for me. There is a case to be made that Letterboxd not having an algorithmic feed / recommendation feature is refreshing to its users as the point of the app is to log your own ratings and see what your friends are watching / liking. This is why this is simply a project for my friends and I to use out of curiosity or help us pick movies!
+
+
+**Approach:** Compare collaborative-filtering models with content-based signals from movie metadata. Evaluate ranked recommendations, not only rating prediction error.
+
+**Next steps:** Finish offline training, add a content-based fallback for newer films, and connect the model to a Streamlit demo.
+
+**Tools:** Python · Pandas · scikit-surprise · TMDB API · Streamlit
+
+[GitHub repository](https://github.com/scottsiegers/letterboxd-movie-recommender) · [Live demo](#)
+:::

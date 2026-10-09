@@ -1,0 +1,28 @@
+---
+title: "About"
+---
+
+## Hi, I'm Scott.
+
+I'm interested in applying data science to practical problems—combining statistical thinking, machine learning, and strong analytical workflows.
+
+My portfolio is a place to document not only finished projects, but also the reasoning behind them: how I prepare data, choose evaluation metrics, compare approaches, and communicate limitations.
+
+I choose projects based on my interests and the opportunity to learn new skills. I enjoy exploring new datasets, asking questions, and finding ways to answer them with data. I also love film, economics, outdoor activities such as skiing and mountaineering, and try to reflect those interests in my projects when possible.
+
+## Current interests
+
+- Recommendation systems
+- Predictive modeling and model evaluation
+- Python and SQL analytics
+- Reproducible data workflows and deployment
+
+## Get in touch
+
+- **GitHub:** [github.com/scottsiegers](https://github.com/scottsiegers)
+- **Email:** [scottsieger1@gmail.com](mailto:scottsieger1@gmail.com)
+- **Resume:** [View Resume PDF](./files/Scott_Sieger_Resume.pdf)
+
+::: {.callout-note}
+**Customization tip:** Keep this page honest and specific. Add a short summary of your professional experience and the types of data science roles you're targeting, then support those claims with projects.
+:::
